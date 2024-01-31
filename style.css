@@ -1,0 +1,33 @@
+body{
+    background-color: lightblue;
+}
+.black{
+    background-color: black;
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+    margin: 5px 10px 5px 10px;
+}
+.white{
+    background-color: white;
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+    margin: 5px 10px 5px 10px;
+}
+.img1{
+    position: absolute;
+    top: 99px;
+    left: 156px;
+}
+.img2{
+    position: relative;
+    top: -21px;
+    left: -97px;
+}
+.img3{
+    position: fixed;
+    top: 525px;
+    left: 525px;
+}
+
