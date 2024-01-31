@@ -25,9 +25,13 @@ body{
     top: -21px;
     left: -97px;
 }
-.img3{
+/* .img3{
     position: fixed;
     top: 525px;
     left: 525px;
+} */
+.go1{
+    position: fixed;
+    top: 570px;
+    left: 525px;
 }
-
