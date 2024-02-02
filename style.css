@@ -50,4 +50,20 @@ body{
     top: 1346px;
     left: 46px;
 }
-
+.float1{
+    width: 400px;
+    height: 33px;
+    background-color: red;
+    color: aliceblue;
+    float: left;
+}
+.float2{
+    width: 120px;
+    height: 33px;
+    background-color: blue;
+    color: aliceblue;
+    float: left;
+}
+p{
+    clear: both;
+}
