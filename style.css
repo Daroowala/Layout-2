@@ -35,3 +35,19 @@ body{
     top: 570px;
     left: 525px;
 }
+.exp{
+    width: 120px;
+    height: 30px;
+    background-color: red;
+    color: aliceblue;
+}
+.exp1{
+    width: 120px;
+    height: 33px;
+    background-color: blue;
+    color: aliceblue;
+    position: absolute;
+    top: 1346px;
+    left: 46px;
+}
+
